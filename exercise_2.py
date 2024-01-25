@@ -10,5 +10,8 @@
 previous_number = 0
 
 # create loop and range
-
+for i in range(1, 11):
+    sum_of_the_two_numbers = previous_number + i
+    print("Current Number: ", i, "Previous_Number: ", previous_number, "Sum: ", sum_of_the_two_numbers)
 # re-assigned the previous number to i
+    previous_number = i
