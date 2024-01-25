@@ -6,7 +6,8 @@
 # Print the sum of the current number and the previous number
 # Write a program to iterate the first 10 numbers, and in each iteration, print the sum of the current and previous number.
 
+# assigned the previous number with stored value = 0
 
-# checking the range
-for i in range(1, 6):
-    print("The value is ", i)
+# create loop and range
+
+# re-assigned the previous number to i
